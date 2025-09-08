@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="28.2.0">
   <diagram name="Página-1" id="tmoNBz47ytBKy1adXkc0">
-    <mxGraphModel>
+    <mxGraphModel dx="2009" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k55dvqI0mPFImyrSNptX-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-450" width="740" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-2" value="Usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-420" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-3" value="+ id: Long&lt;div&gt;+ userName: String&lt;/div&gt;&lt;div&gt;+ email: String&lt;/div&gt;&lt;div&gt;+ password: String&lt;br&gt;&lt;div&gt;+ nombres: String&lt;br&gt;&lt;div&gt;+ apellidos: String&lt;/div&gt;&lt;div&gt;+ telefono: String&lt;/div&gt;&lt;div&gt;+ estado: EstadoUsuario&lt;/div&gt;&lt;div&gt;+ fechaCreacion: String&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="k55dvqI0mPFImyrSNptX-2">
+          <mxGeometry y="26" width="290" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="k55dvqI0mPFImyrSNptX-2">
+          <mxGeometry y="170" width="290" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-5" value="+ autenticado(password: String): boolean&lt;div&gt;+ actualizarPerfil(datos: PerfilDTO): void&lt;/div&gt;&lt;div&gt;+ cambiarContraseña(newContraseña: String): void&lt;/div&gt;&lt;div&gt;+ isActivo(): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="k55dvqI0mPFImyrSNptX-2">
+          <mxGeometry y="178" width="290" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-6" value="Bodega" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-420" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-7" value="+ id: Long&lt;div&gt;+ nombre: String&lt;/div&gt;&lt;div&gt;+ direccion: String&lt;/div&gt;&lt;div&gt;+ telefono: String&lt;br&gt;&lt;div&gt;+ email: String&lt;br&gt;&lt;div&gt;+ nit: String&lt;/div&gt;&lt;div&gt;+ estado: EstadoBodega&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ capacidadMaxima: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="k55dvqI0mPFImyrSNptX-6">
+          <mxGeometry y="26" width="280" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="k55dvqI0mPFImyrSNptX-6">
+          <mxGeometry y="150" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="k55dvqI0mPFImyrSNptX-9" value="+ calcularCapacidadDisponible(): Double&lt;div&gt;+ validarCapacidad(cantidad: Double): boolean&lt;/div&gt;&lt;div&gt;+ actualizarInformacion(datos: BodegaDTO): void&lt;/div&gt;&lt;div&gt;+ isOperacional() boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="k55dvqI0mPFImyrSNptX-6">
+          <mxGeometry y="158" width="280" height="82" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
