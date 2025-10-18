@@ -1,0 +1,87 @@
+contenido/HELP.md
+CLAUDE.md
+contenido/ERRO.md
+contenido/TAREAS-DB.md
+
+
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.claude
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Environment Variables ###
+.env
+.env.local
+.env.*.local
+
+### Application Properties (Sensibles) ###
+
+application.properties
+application-*.properties
+
+### Logs ###
+*.log
+logs/
+spring.log
+### OS Files ###
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+### Maven ###
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+
+### Temporary Files ###
+*.tmp
+*.bak
+*.cache
+
+### Database ###
+*.db
+*.sqlite
+*.sql.backup
+
+### Security ###
+*.key
+*.pem
+*.p12
+*.jks
+keystore/
+secrets/
+
+### Others ###
+postgresSQL
+contenido
