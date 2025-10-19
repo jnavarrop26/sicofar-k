@@ -45,8 +45,8 @@ build/
 
 ### Application Properties (Sensibles) ###
 
-application.properties
-application-*.properties
+# application.properties
+# application-*.properties
 
 ### Logs ###
 *.log
