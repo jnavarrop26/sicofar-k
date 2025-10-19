@@ -29,3 +29,33 @@
 - Frontend: [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)](https://es.reactjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/TypeScript) [![Bun](https://img.shields.io/badge/Bun-333?logo=bun&logoColor=white)](https://bun.sh/)
 - Base de Datos: [![PostgreSQL](https://img.shields.io/badge/Base%20de%20Datos-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)[![DataGrid](https://img.shields.io/badge/DataGrid-0078D4?logo=datagrip&logoColor=white)](https://mui.com/x/react-data-grid/)
 - Otros: [![API Factus](https://img.shields.io/badge/API-Factus-blueviolet?logo=link&logoColor=white)](https://developers.factus.com.co/)
+
+---
+
+## 📚 Documentación
+
+Para documentación técnica detallada del proyecto, consulta nuestra [Wiki](https://github.com/jnavarrop26/sicofar-k/wiki):
+
+- **[Inicio](https://github.com/jnavarrop26/sicofar-k/wiki/Home)** - Bienvenida y tabla de contenidos
+- **[Arquitectura del Sistema](https://github.com/jnavarrop26/sicofar-k/wiki/arquitectura)** - Diseño arquitectónico completo
+- **[Base de Datos](https://github.com/jnavarrop26/sicofar-k/wiki/base-datos)** - Modelo de datos, entidades y relaciones
+- **[Casos de Uso](https://github.com/jnavarrop26/sicofar-k/wiki/casos-de-uso)** - Especificación detallada de casos de uso
+- **[Requerimientos Funcionales](https://github.com/jnavarrop26/sicofar-k/wiki/requerimientos-funcionales)** - Requisitos funcionales del sistema
+- **[Requerimientos No Funcionales](https://github.com/jnavarrop26/sicofar-k/wiki/requerimientos-no-funcionales)** - Requisitos no funcionales
+- **[Reglas de Negocio](https://github.com/jnavarrop26/sicofar-k/wiki/reglas-negocio)** - Reglas y validaciones de negocio
+
+---
+
+## 🚀 Estado del Proyecto
+
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square)
+![Versión](https://img.shields.io/badge/Versión-0.0.1--SNAPSHOT-blue?style=flat-square)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square)
+
+---
+
+## 📞 Contacto
+
+**Equipo de Desarrollo SICOFAR-K**  
+Universidad Central  
+📧 Email: jnavarrop26@ucentral.edu.co
