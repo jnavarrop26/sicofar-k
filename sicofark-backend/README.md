@@ -1,7 +1,7 @@
 # SICOFAR-K Backend
 
 <div align="center">
-  <img style="max-width: 100%; height: auto;" src="resources/img/SICOFAR-K.gif" alt="Portada GitHub" />
+  <img style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/jnavarrop26/sicofar-k/main/resources/img/SICOFAR-K.gif" alt="Portada GitHub" />
 </div>
 
 
@@ -13,7 +13,7 @@
    - Spring Boot 3.5.4 - Configuración y anotaciones
    - Spring Data JPA + Hibernate - Entidades, repositorios, convertidores       
    - PostgreSQL - Schema, enums nativos, tipos de datos
-   - Spring Security + JJWT - Autenticación JWT, filtros, RBAC
+   - Spring Security + JWT - Autenticación JWT, filtros, RBAC
    - Lombok - Reducción de boilerplate
    - Maven - Gestión de dependencias
 6. Patrones de Diseño (12 patrones implementados):
