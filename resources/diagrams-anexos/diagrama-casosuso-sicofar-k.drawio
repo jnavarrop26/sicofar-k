@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zYkJvqo2IfkUEzbuqfNp-3" value="Administrador&amp;nbsp;&lt;div&gt;Del Sistema&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="318" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="318" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYkJvqo2IfkUEzbuqfNp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zYkJvqo2IfkUEzbuqfNp-4" target="zYkJvqo2IfkUEzbuqfNp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
