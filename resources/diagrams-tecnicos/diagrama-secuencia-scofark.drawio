@@ -1,9 +1,164 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Página-1" id="GIrDOfjyBjxbSR8aWYFm">
-    <mxGraphModel dx="1426" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-2" value="Operario de Báscula" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="200" width="35" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-2">
+          <mxGeometry x="12.5" y="90" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-3" value="Sistema SICOFAR-K&#xa;(Módulo de Registro)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="24" y="200" width="170" height="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-3">
+          <mxGeometry x="80" y="90" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-4" value="Báscula Digital" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="244" y="200" width="150" height="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-4">
+          <mxGeometry x="70" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-5" value="Base de Datos&#xa;(Materiales)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="444" y="200" width="150" height="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry x="70" y="320" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry x="70" y="574" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry x="70" y="800" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-6" value="Operario de Transformación" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="644" y="200" width="35" height="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-6">
+          <mxGeometry x="12.5" y="480" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-7" value="Sistema SICOFAR-K&#xa;(Módulo de Transformación)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="950" y="200" width="220" height="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=15;" vertex="1" parent="1rjM1kBhLXf4Tgq7fvxv-7">
+          <mxGeometry x="105" y="480" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-8" value="Iniciar Registro Material" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-2" target="1rjM1kBhLXf4Tgq7fvxv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-71" y="307" />
+            </Array>
+            <mxPoint x="-290" y="307" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-9" value="Solicitar Peso" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-3" target="1rjM1kBhLXf4Tgq7fvxv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-10" value="Enviar Peso (valor)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-4" target="1rjM1kBhLXf4Tgq7fvxv-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="411" />
+            </Array>
+            <mxPoint x="120" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-11" value="Ingresar Datos Material (tipo, cantidad, etc.)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-23" target="1rjM1kBhLXf4Tgq7fvxv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-71" y="463" />
+            </Array>
+            <mxPoint x="-260" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-12" value="Guardar Material&#xa;(datos, peso, estado=&#39;Registrado&#39;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-3" target="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-13" value="Confirmación Guardado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="326" y="588" />
+            </Array>
+            <mxPoint x="110" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-14" value="Confirmar Registro Exitoso&#xa;(ID Material)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;entryX=0.75;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-3" target="1rjM1kBhLXf4Tgq7fvxv-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-68" y="661" />
+            </Array>
+            <mxPoint x="-320" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-15" value="Iniciar Transformación (ID Material)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-6" target="1rjM1kBhLXf4Tgq7fvxv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="927" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-16" value="Actualizar Estado Material&#xa;(ID Material, estado=&#39;En Proceso&#39;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-7" target="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-17" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-5" target="1rjM1kBhLXf4Tgq7fvxv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="838" />
+            </Array>
+            <mxPoint x="1040" y="838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-18" value="Confirmar Inicio Transformación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-7" target="1rjM1kBhLXf4Tgq7fvxv-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-19" value="Finalizar Transformación (ID Material)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-6" target="1rjM1kBhLXf4Tgq7fvxv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="927" y="942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-20" value="Actualizar Estado Material&#xa;(ID Material, estado=&#39;Procesado&#39;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-7" target="1rjM1kBhLXf4Tgq7fvxv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="1015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-21" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-5" target="1rjM1kBhLXf4Tgq7fvxv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1067" />
+            </Array>
+            <mxPoint x="1030" y="1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rjM1kBhLXf4Tgq7fvxv-22" value="Confirmar Fin Transformación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;fontSize=15;endFill=0;entryX=0.35;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rjM1kBhLXf4Tgq7fvxv-7" target="1rjM1kBhLXf4Tgq7fvxv-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1119" />
+            </Array>
+            <mxPoint x="670" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
