@@ -2584,786 +2584,803 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nZasamlKG7R4mphyvgjf" name="Registrar y controlar procesamiento">
-    <mxGraphModel dx="1453" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-1" value="Analista" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="35" height="6800" as="geometry" />
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-1" value="Analista" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
+          <mxGeometry x="200" y="110" width="35" height="6800" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-2" value="Supervisor&#xa;General" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
-          <mxGeometry x="220" y="20" width="35" height="6800" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-1">
+          <mxGeometry x="12.5" y="149" width="10" height="481" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-3" value="Operador De&#xa;Planta" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
-          <mxGeometry x="420" y="20" width="35" height="6800" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-1">
+          <mxGeometry x="12.5" y="1920" width="10" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-4" value="Sistema SICOFAR-K&#xa;(Módulo de Procesamiento)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="660" y="20" width="216" height="6800" as="geometry" />
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-2" value="Supervisor&#xa;General" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
+          <mxGeometry x="400" y="110" width="35" height="6800" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-4">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-3" value="Operador De&#xa;Planta" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
+          <mxGeometry x="600" y="110" width="35" height="6800" as="geometry" />
+        </mxCell>
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-4" value="Sistema SICOFAR-K&#xa;(Módulo de Procesamiento)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="850" y="110" width="216" height="6800" as="geometry" />
+        </mxCell>
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-4" vertex="1">
           <mxGeometry x="103" y="156" width="10" height="6549" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-6" value="Base de Datos&#xa;(Materiales)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="20" width="150" height="6800" as="geometry" />
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-6" value="Base de Datos&#xa;(Materiales)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="110" width="150" height="6800" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="229" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="437" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="1062" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="1208" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="1598" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-12" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-12" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="1984" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="2358" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-14" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-14" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="2930" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-15" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-15" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="3304" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="3429" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="3732" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-18" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-18" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="4085" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="4381" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-20" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-20" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="4642" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-21" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-21" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="5175" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-22" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-22" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="5425" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="5738" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-24" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-24" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="6091" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-25" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-25" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="6216" width="10" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-6">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="aJeoPr6jrkpBtHMZcbIB-6" vertex="1">
           <mxGeometry x="70" y="6341" width="10" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-27" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="1446" width="1136" height="369" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-28" value="[Detectar Desviación]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-27">
-          <mxGeometry x="30" width="1106" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-29" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="2450" width="699" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-30" value="[Calidad Aprobada]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-29">
-          <mxGeometry x="30" width="669" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-31" value="[Calidad Rechazada]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-29">
-          <mxGeometry y="103" width="699" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-32" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="4229" width="1136" height="296" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-33" value="[Actualizar Progreso Manualmente]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-32">
-          <mxGeometry x="30" width="1106" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-34" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="4837" width="1136" height="732" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-35" value="[Parámetros fuera de rango]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-34">
-          <mxGeometry x="30" width="1106" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-36" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="60" y="654" width="1180" height="6019" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-37" value="[Registrar Inicio o Desviación]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry x="30" width="1150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-38" value="[Verificar Calidad de Proceso]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry y="1176" width="1180" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-39" value="[Actualizar Estado del Lote]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry y="2101" width="1180" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-40" value="[Monitorear Progreso de Procesamiento]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry y="2924" width="1180" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-41" value="[Emitir Alerta de Normas Altas]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry y="3886" width="1180" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-42" value="[Poder Registro de Lote]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="aJeoPr6jrkpBtHMZcbIB-36">
-          <mxGeometry y="4930" width="1180" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-43" value="Acceder Módulo de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-43" value="Acceder Módulo de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="176" />
+              <mxPoint x="618" y="266" />
             </Array>
+            <mxPoint x="220" y="266" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-44" value="Consultar Materiales Disponibles&#xa;(estado=&quot;En Inventario&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-7">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-44" value="Consultar Materiales Disponibles&#xa;(estado=&quot;En Inventario&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="249" />
+              <mxPoint x="1175" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-45" value="Lista de Materiales Disponibles" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-7" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-45" value="Lista de Materiales Disponibles" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-7" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="301" />
+              <mxPoint x="1178" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-46" value="Mostrar Materiales para Procesar" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-46" value="Mostrar Materiales para Procesar" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="353" />
+              <mxPoint x="621" y="443" />
             </Array>
+            <mxPoint x="230" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-47" value="Seleccionar Material(es)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-47" value="Seleccionar Material(es)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="405" />
+              <mxPoint x="618" y="495" />
             </Array>
+            <mxPoint x="220" y="495" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-48" value="Consultar Detalle Material" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-8">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-48" value="Consultar Detalle Material" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="457" />
+              <mxPoint x="1175" y="547" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-49" value="Información del Material&#xa;(cantidad, calidad, ubicación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-8" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-49" value="Información del Material&#xa;(cantidad, calidad, ubicación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-8" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="530" />
+              <mxPoint x="1178" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-50" value="Mostrar Información del Material" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-50" value="Mostrar Información del Material" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="582" />
+              <mxPoint x="621" y="672" />
             </Array>
+            <mxPoint x="230" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-51" value="Seleccionar Acción de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-51" value="Seleccionar Acción de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="634" />
+              <mxPoint x="618" y="724" />
             </Array>
+            <mxPoint x="220" y="724" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-52" value="Iniciar Registro de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-52" value="Iniciar Registro de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="781" />
+              <mxPoint x="618" y="871" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-53" value="Formulario de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-53" value="Formulario de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="833" />
+              <mxPoint x="621" y="923" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-54" value="Ingresar Datos Procesamiento&#xa;(tipo proceso, parámetros, operadores)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-54" value="Ingresar Datos Procesamiento&#xa;(tipo proceso, parámetros, operadores)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="906" />
+              <mxPoint x="618" y="996" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-55" value="Validar Datos&#xa;(parámetros dentro de rangos)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-55" value="Validar Datos&#xa;(parámetros dentro de rangos)" style="curved=1;endArrow=block;rounded=0;entryX=0.769;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-15" edge="1">
+          <mxGeometry x="-0.2039" y="67" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="979" />
-              <mxPoint x="823" y="1009" />
+              <mxPoint x="1003" y="1069" />
+              <mxPoint x="1003" y="1099" />
             </Array>
+            <mxPoint x="980" y="1099" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-56" value="Crear Registro Procesamiento&#xa;(ID Material, tipo, fecha inicio, estado=&quot;En Proceso&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-9">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-56" value="Crear Registro Procesamiento&#xa;(ID Material, tipo, fecha inicio, estado=&quot;En Proceso&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="1082" />
+              <mxPoint x="1175" y="1172" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-57" value="Confirmación Registro&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-9" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-57" value="Confirmación Registro&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-9" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="1155" />
+              <mxPoint x="1178" y="1245" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-58" value="Actualizar Estado Material&#xa;(estado=&quot;En Proceso&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-10">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-58" value="Actualizar Estado Material&#xa;(estado=&quot;En Proceso&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="1228" />
+              <mxPoint x="1175" y="1318" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-59" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-10" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-59" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-10" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="1280" />
+              <mxPoint x="1178" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-60" value="Procesamiento Iniciado&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-60" value="Procesamiento Iniciado&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="1353" />
+              <mxPoint x="621" y="1443" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-61" value="Notificación: Procesamiento Iniciado&#xa;(ID Material, tipo proceso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-2">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-61" value="Notificación: Procesamiento Iniciado&#xa;(ID Material, tipo proceso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.75;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="1426" />
+              <mxPoint x="721" y="1516" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-62" value="Registrar Desviación&#xa;(tipo, descripción, causa)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-62" value="Registrar Desviación&#xa;(tipo, descripción, causa)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="1545" />
+              <mxPoint x="618" y="1635" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-63" value="Guardar Desviación&#xa;(ID Procesamiento, detalles)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-11">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-63" value="Guardar Desviación&#xa;(ID Procesamiento, detalles)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="1618" />
+              <mxPoint x="1175" y="1708" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-64" value="Desviación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-11" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-64" value="Desviación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-11" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="1670" />
+              <mxPoint x="1178" y="1760" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-65" value="Alerta: Desviación Detectada&#xa;(ID Procesamiento, tipo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-2">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-65" value="Alerta: Desviación Detectada&#xa;(ID Procesamiento, tipo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.75;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="1743" />
+              <mxPoint x="721" y="1833" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-66" value="Desviación Documentada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-66" value="Desviación Documentada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="1795" />
+              <mxPoint x="621" y="1885" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-67" value="Seleccionar Procesamiento Activo" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-67" value="Seleccionar Procesamiento Activo" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="jS49CH-87wflEdzGdB4F-19" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="1952" />
+              <mxPoint x="618" y="2042" />
             </Array>
+            <mxPoint x="240" y="2042" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-68" value="Consultar Estado Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-12">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-68" value="Consultar Estado Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="2004" />
+              <mxPoint x="1175" y="2094" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-69" value="Datos del Procesamiento&#xa;(parámetros, tiempo, desviaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-12" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-69" value="Datos del Procesamiento&#xa;(parámetros, tiempo, desviaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-12" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="2077" />
+              <mxPoint x="1178" y="2167" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-70" value="Mostrar Estado del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-70" value="Mostrar Estado del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="2129" />
+              <mxPoint x="621" y="2219" />
             </Array>
+            <mxPoint x="230" y="2219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-71" value="Realizar Verificación de Calidad&#xa;(muestras, análisis, resultados)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-72" value="Evaluar Resultados&#xa;(comparar con estándares)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-20" edge="1">
+          <mxGeometry x="0.068" y="57" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="2202" />
+              <mxPoint x="1003" y="2365" />
+              <mxPoint x="1003" y="2395" />
             </Array>
+            <mxPoint x="980" y="2400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-72" value="Evaluar Resultados&#xa;(comparar con estándares)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-73" value="Registrar Verificación&#xa;(ID Procesamiento, resultados, fecha)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="2275" />
-              <mxPoint x="823" y="2305" />
+              <mxPoint x="1175" y="2468" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-73" value="Registrar Verificación&#xa;(ID Procesamiento, resultados, fecha)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-13">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-74" value="Verificación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-13" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="2378" />
+              <mxPoint x="1178" y="2520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-74" value="Verificación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-13" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-75" value="Calidad Aprobada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="2430" />
+              <mxPoint x="621" y="2618" />
             </Array>
+            <mxPoint x="230" y="2618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-75" value="Calidad Aprobada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-76" value="Calidad Rechazada&#xa;(requiere acción correctiva)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="2528" />
+              <mxPoint x="621" y="2737" />
             </Array>
+            <mxPoint x="240" y="2737" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-76" value="Calidad Rechazada&#xa;(requiere acción correctiva)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-77" value="Alerta: Problema de Calidad&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="2647" />
+              <mxPoint x="721" y="2810" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-77" value="Alerta: Problema de Calidad&#xa;(ID Procesamiento)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-2">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-78" value="Seleccionar Lote en Proceso" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="2720" />
+              <mxPoint x="618" y="2967" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-78" value="Seleccionar Lote en Proceso" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-79" value="Consultar Lote&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="2877" />
+              <mxPoint x="1175" y="3040" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-79" value="Consultar Lote&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-14">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-80" value="Información del Lote&#xa;(materiales, estado actual, etapa)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-14" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="2950" />
+              <mxPoint x="1178" y="3113" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-80" value="Información del Lote&#xa;(materiales, estado actual, etapa)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-14" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-81" value="Mostrar Estado Actual del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="3023" />
+              <mxPoint x="621" y="3165" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-81" value="Mostrar Estado Actual del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-82" value="Actualizar Estado&#xa;(nuevo estado, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="jS49CH-87wflEdzGdB4F-23" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="3075" />
+              <mxPoint x="618" y="3238" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-82" value="Actualizar Estado&#xa;(nuevo estado, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-83" value="Validar Cambio de Estado&#xa;(flujo permitido)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-24" edge="1">
+          <mxGeometry x="-0.0485" y="57" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="3148" />
+              <mxPoint x="1003" y="3311" />
+              <mxPoint x="1003" y="3341" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-83" value="Validar Cambio de Estado&#xa;(flujo permitido)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-84" value="Actualizar Lote&#xa;(nuevo estado, fecha actualización)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="3221" />
-              <mxPoint x="823" y="3251" />
+              <mxPoint x="1175" y="3414" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-84" value="Actualizar Lote&#xa;(nuevo estado, fecha actualización)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-15">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-85" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-15" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="3324" />
+              <mxPoint x="1178" y="3466" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-85" value="Confirmación Actualización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-15" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-86" value="Registrar Cambio en Historial&#xa;(ID Lote, estado anterior, nuevo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="3376" />
+              <mxPoint x="1175" y="3539" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-86" value="Registrar Cambio en Historial&#xa;(ID Lote, estado anterior, nuevo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-16">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-87" value="Historial Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-16" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="3449" />
+              <mxPoint x="1178" y="3591" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-87" value="Historial Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-16" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-88" value="Estado del Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;entryX=0.75;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="3501" />
+              <mxPoint x="621" y="3643" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-88" value="Estado del Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-89" value="Consultar Dashboard de Procesos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="3553" />
+              <mxPoint x="618" y="3790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-89" value="Consultar Dashboard de Procesos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-90" value="Consultar Procesamientos Activos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="3700" />
+              <mxPoint x="1175" y="3842" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-90" value="Consultar Procesamientos Activos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-17">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-91" value="Lista de Procesamientos&#xa;(ID, estado, tiempo, progreso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-17" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="3752" />
+              <mxPoint x="1178" y="3915" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-91" value="Lista de Procesamientos&#xa;(ID, estado, tiempo, progreso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-17" target="aJeoPr6jrkpBtHMZcbIB-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-92" value="Calcular Métricas&#xa;(tiempo transcurrido, eficiencia)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-27" edge="1">
+          <mxGeometry x="-0.0545" y="67" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="3825" />
+              <mxPoint x="1003" y="3988" />
+              <mxPoint x="1003" y="4018" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-92" value="Calcular Métricas&#xa;(tiempo transcurrido, eficiencia)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-94" value="Seleccionar Procesamiento Específico" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="3898" />
-              <mxPoint x="823" y="3928" />
+              <mxPoint x="618" y="4122" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-93" value="Mostrar Dashboard con Progreso" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-95" value="Consultar Detalle Completo&#xa;(historial, parámetros, verificaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="3980" />
+              <mxPoint x="1175" y="4195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-94" value="Seleccionar Procesamiento Específico" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-96" value="Información Detallada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-18" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="4032" />
+              <mxPoint x="1178" y="4247" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-95" value="Consultar Detalle Completo&#xa;(historial, parámetros, verificaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-18">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-97" value="Mostrar Detalle del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="4105" />
+              <mxPoint x="621" y="4299" />
             </Array>
+            <mxPoint x="230" y="4299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-96" value="Información Detallada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-18" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-98" value="Registrar Avance&#xa;(% completado, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="4157" />
+              <mxPoint x="618" y="4418" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-97" value="Mostrar Detalle del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-99" value="Actualizar Progreso&#xa;(ID Procesamiento, nuevo progreso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="4209" />
+              <mxPoint x="1175" y="4491" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-98" value="Registrar Avance&#xa;(% completado, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-100" value="Progreso Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-19" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="4328" />
+              <mxPoint x="1178" y="4543" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-99" value="Actualizar Progreso&#xa;(ID Procesamiento, nuevo progreso)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-19">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-102" value="Monitorear Parámetros de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="4401" />
+              <mxPoint x="1175" y="4752" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-100" value="Progreso Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-19" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-103" value="Valores Actuales de Parámetros" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-20" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="4453" />
+              <mxPoint x="1178" y="4804" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-101" value="Progreso Registrado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-104" value="Evaluar Parámetros vs Límites&#xa;(temperatura, presión, tiempo, etc.)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-33" edge="1">
+          <mxGeometry x="-0.0308" y="67" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="4505" />
+              <mxPoint x="1003" y="4877" />
+              <mxPoint x="1003" y="4907" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-102" value="Monitorear Parámetros de Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-20">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-105" value="Generar Alerta de Normas Altas" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-32" edge="1">
+          <mxGeometry x="0.068" y="57" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="4662" />
+              <mxPoint x="1003" y="5005" />
+              <mxPoint x="1003" y="5035" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-103" value="Valores Actuales de Parámetros" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-20" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-106" value="Alerta Crítica: Parámetros Fuera de Rango&#xa;(ID Procesamiento, parámetro, valor)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="4714" />
+              <mxPoint x="621" y="5108" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-104" value="Evaluar Parámetros vs Límites&#xa;(temperatura, presión, tiempo, etc.)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-107" value="Alerta: Normas Altas Detectadas&#xa;(ID Procesamiento, criticidad)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="4787" />
-              <mxPoint x="823" y="4817" />
+              <mxPoint x="721" y="5181" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-105" value="Generar Alerta de Normas Altas" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-108" value="Revisar Alerta" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="4915" />
-              <mxPoint x="823" y="4945" />
+              <mxPoint x="618" y="5233" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-106" value="Alerta Crítica: Parámetros Fuera de Rango&#xa;(ID Procesamiento, parámetro, valor)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-109" value="Consultar Detalle del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="5018" />
+              <mxPoint x="1175" y="5285" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-107" value="Alerta: Normas Altas Detectadas&#xa;(ID Procesamiento, criticidad)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-2">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-110" value="Información del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-21" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="5091" />
+              <mxPoint x="1178" y="5337" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-108" value="Revisar Alerta" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-111" value="Mostrar Detalle y Parámetros" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="5143" />
+              <mxPoint x="621" y="5389" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-109" value="Consultar Detalle del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-21">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-112" value="Registrar Acción Correctiva&#xa;(ajuste, detención, continuación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="5195" />
+              <mxPoint x="618" y="5462" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-110" value="Información del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-21" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-113" value="Guardar Acción Correctiva&#xa;(ID Procesamiento, acción tomada)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="5247" />
+              <mxPoint x="1175" y="5535" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-111" value="Mostrar Detalle y Parámetros" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-114" value="Acción Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-22" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="5299" />
+              <mxPoint x="1178" y="5587" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-112" value="Registrar Acción Correctiva&#xa;(ajuste, detención, continuación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-115" value="Acción Correctiva Documentada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="5372" />
+              <mxPoint x="621" y="5639" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-113" value="Guardar Acción Correctiva&#xa;(ID Procesamiento, acción tomada)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-22">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-116" value="Finalizar Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="5445" />
+              <mxPoint x="618" y="5796" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-114" value="Acción Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-22" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-117" value="Consultar Verificaciones del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="5497" />
+              <mxPoint x="1175" y="5848" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-115" value="Acción Correctiva Documentada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-118" value="Todas las Verificaciones Completadas" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-23" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="5549" />
+              <mxPoint x="1178" y="5900" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-116" value="Finalizar Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-119" value="Confirmar Finalización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="5706" />
+              <mxPoint x="621" y="5952" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-117" value="Consultar Verificaciones del Procesamiento" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-23">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-120" value="Confirmar Cierre de Procesamiento&#xa;(resultados finales, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="5758" />
+              <mxPoint x="618" y="6025" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-118" value="Todas las Verificaciones Completadas" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-23" target="aJeoPr6jrkpBtHMZcbIB-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-121" value="Generar Registro de Lote&#xa;(consolidar información)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-35" edge="1">
+          <mxGeometry x="0.1273" y="77" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="5810" />
+              <mxPoint x="1003" y="6098" />
+              <mxPoint x="1003" y="6128" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-119" value="Confirmar Finalización" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-122" value="Actualizar Procesamiento&#xa;(estado=&quot;Completado&quot;, fecha fin)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="5862" />
+              <mxPoint x="1175" y="6201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-120" value="Confirmar Cierre de Procesamiento&#xa;(resultados finales, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-123" value="Procesamiento Finalizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-24" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="5935" />
+              <mxPoint x="1178" y="6253" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-121" value="Generar Registro de Lote&#xa;(consolidar información)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-124" value="Actualizar Estado Material&#xa;(estado=&quot;Procesado&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823" y="6008" />
-              <mxPoint x="823" y="6038" />
+              <mxPoint x="1175" y="6326" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-122" value="Actualizar Procesamiento&#xa;(estado=&quot;Completado&quot;, fecha fin)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-24">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-125" value="Material Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-25" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="6111" />
+              <mxPoint x="1178" y="6378" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-123" value="Procesamiento Finalizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-24" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-126" value="Crear/Actualizar Registro de Lote&#xa;(ID Lote, datos consolidados, trazabilidad)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="6163" />
+              <mxPoint x="1175" y="6451" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-124" value="Actualizar Estado Material&#xa;(estado=&quot;Procesado&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-25">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-127" value="Registro de Lote Creado&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-26" target="aJeoPr6jrkpBtHMZcbIB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="6236" />
+              <mxPoint x="1178" y="6524" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-125" value="Material Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-25" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-128" value="Procesamiento Completado&#xa;(ID Lote generado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="6288" />
+              <mxPoint x="621" y="6597" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-126" value="Crear/Actualizar Registro de Lote&#xa;(ID Lote, datos consolidados, trazabilidad)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-26">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-129" value="Notificación: Procesamiento Completado&#xa;(ID Lote, resultados)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.75;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="6361" />
+              <mxPoint x="721" y="6670" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-127" value="Registro de Lote Creado&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-26" target="aJeoPr6jrkpBtHMZcbIB-5">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-130" value="Notificación: Lote Disponible&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="6434" />
+              <mxPoint x="821" y="6743" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-128" value="Procesamiento Completado&#xa;(ID Lote generado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="aJeoPr6jrkpBtHMZcbIB-131" value="Operación de Procesamiento Completada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="jS49CH-87wflEdzGdB4F-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="441" y="6507" />
+              <mxPoint x="621" y="6805" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-129" value="Notificación: Procesamiento Completado&#xa;(ID Lote, resultados)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="541" y="6580" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jS49CH-87wflEdzGdB4F-1" value="Registrar y Controlar Procesamiento" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="1210" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-130" value="Notificación: Lote Disponible&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="641" y="6653" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jS49CH-87wflEdzGdB4F-2" value="Registrar Inicio o Desviación" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="810" width="1210" height="1140" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-131" value="Operación de Procesamiento Completada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-5" target="aJeoPr6jrkpBtHMZcbIB-1">
+        <mxCell id="jS49CH-87wflEdzGdB4F-4" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aJeoPr6jrkpBtHMZcbIB-1" target="jS49CH-87wflEdzGdB4F-3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="441" y="6715" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="217" y="2292" as="sourcePoint" />
+            <mxPoint x="943" y="2292" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-3" value="Verificar Calidad de Proceso" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1980" width="1210" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-5" value="Actualizar Estado del Lote" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2910" width="1210" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-6" value="Monitorear Progreso de Procesamiento" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3720" width="1210" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-7" value="Emitir Alerta de Normas Altas" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4690" width="1210" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-10" value="Emitir Iniciar de Normas Altas" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5730" width="1210" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="860" width="10" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="1080" width="13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="1490" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="1810" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="2380" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="2780" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="2960" width="10" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="3330" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="3780" width="10" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="4000" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jS49CH-87wflEdzGdB4F-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="4740" width="10" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-132" value="Caso de Uso: Registrar y Controlar Procesamiento" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="95" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="5160" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-133" value="Include: Registrar Inicio o Desviación" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="700" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="5020" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-134" value="Include: Verificar Calidad de Proceso" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1871" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="4890" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-135" value="Include: Actualizar Estado del Lote" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2796" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="5780" width="10" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-136" value="Include: Monitorear Progreso de Procesamiento" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3619" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="960" y="6110" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-137" value="Extend: Emitir Alerta de Normas Altas" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="4581" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="6650" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJeoPr6jrkpBtHMZcbIB-138" value="Include: Poder Registro de Lote" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="5625" width="1160" height="49" as="geometry" />
+        <mxCell id="jS49CH-87wflEdzGdB4F-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="6720" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
