@@ -3477,18 +3477,6 @@
         <mxCell id="6MUh0CpjSUm85HPNgbUn-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="6MUh0CpjSUm85HPNgbUn-9" vertex="1">
           <mxGeometry x="70" y="6118" width="10" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="6MUh0CpjSUm85HPNgbUn-31" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" parent="1" vertex="1">
-          <mxGeometry x="284" y="2220" width="915" height="202" as="geometry" />
-        </mxCell>
-        <mxCell id="6MUh0CpjSUm85HPNgbUn-32" value="[Actualización periódica]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="6MUh0CpjSUm85HPNgbUn-31" vertex="1">
-          <mxGeometry x="40" width="875" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6MUh0CpjSUm85HPNgbUn-35" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" parent="1" vertex="1">
-          <mxGeometry x="284" y="4008" width="915" height="296" as="geometry" />
-        </mxCell>
-        <mxCell id="6MUh0CpjSUm85HPNgbUn-36" value="[Agregar comentario]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="6MUh0CpjSUm85HPNgbUn-35" vertex="1">
-          <mxGeometry x="30" width="885" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="6MUh0CpjSUm85HPNgbUn-47" value="Monitorear Eventos del Sistema&#xa;(stock, procesamiento, errores)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="6MUh0CpjSUm85HPNgbUn-4" target="6MUh0CpjSUm85HPNgbUn-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -4165,960 +4153,845 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JkdyhxUEoqFuv8FEJ4yR" name="Emitir facturas de lotes">
-    <mxGraphModel dx="1342" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2180" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-1" value="Operador de&#xa;Recepción" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-1" value="Operador de&#xa;Recepción" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
           <mxGeometry x="20" y="210" width="35" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-2" value="Operador de&#xa;Finanzas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-2" value="Operador de&#xa;Finanzas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
           <mxGeometry x="220" y="210" width="35" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-3" value="Supervisor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-2">
+          <mxGeometry x="12.5" y="156" width="10" height="581" as="geometry" />
+        </mxCell>
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-3" value="Supervisor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
           <mxGeometry x="420" y="210" width="35" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-4" value="Proveedor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+        <mxCell id="u0koz09okUARfvxSxbgL-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-3">
+          <mxGeometry x="12.5" y="5210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-3">
+          <mxGeometry x="12.5" y="6140" width="10" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-4" value="Proveedor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
           <mxGeometry x="620" y="210" width="35" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-5" value="Sistema SICOFAR-K&#xa;(Módulo de Facturación)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="u0koz09okUARfvxSxbgL-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-4">
+          <mxGeometry x="12.5" y="7410" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-5" value="Sistema SICOFAR-K&#xa;(Módulo de Facturación)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="879" y="210" width="193" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-5">
-          <mxGeometry x="91" y="156" width="10" height="7816" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-5" vertex="1">
+          <mxGeometry x="91" y="156" width="10" height="7844" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-7" value="Base de Datos&#xa;(Materiales)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-7" value="Base de Datos&#xa;(Materiales)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1305" y="210" width="150" height="8089" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="229" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="229" width="10" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="498" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="498" width="10" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="986" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="986" width="10" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="1301" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="1301" width="10" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-12" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="2361" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-12" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="2361" width="10" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="2629" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="2629" width="10" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-14" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="3328" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-14" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="3328" width="10" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-15" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="4125" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-15" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="4125" width="10" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="4688" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="4688" width="10" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="4853" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="4853" width="10" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-18" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="4997" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-18" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="4997" width="10" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="5532" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="5532" width="10" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-20" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="5676" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-20" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="5676" width="10" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-21" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="5841" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-21" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="5841" width="10" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-22" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="6205" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-22" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="6205" width="10" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="6593" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="6593" width="10" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-24" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="6929" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-24" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="6929" width="10" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-25" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="7500" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-25" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="7500" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-7">
-          <mxGeometry x="70" y="7717" width="10" height="70" as="geometry" />
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" parent="oViamrIIBpB9Ua9ESjkp-7" vertex="1">
+          <mxGeometry x="70" y="7717" width="10" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-27" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="284" y="1308" width="1186" height="367" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-28" value="[Datos incompletos o incorrectos]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-27">
-          <mxGeometry x="30" width="1156" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-29" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="284" y="2420" width="1186" height="754" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-30" value="[Factura aprobada]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-29">
-          <mxGeometry x="30" width="1156" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-31" value="[Factura rechazada]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-29">
-          <mxGeometry y="609" width="1186" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-32" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="284" y="4696" width="1186" height="888" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-33" value="[Anulación permitida]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-32">
-          <mxGeometry x="30" width="1156" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-34" value="[Anulación no permitida]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-32">
-          <mxGeometry y="774" width="1186" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-35" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="284" y="6652" width="1186" height="724" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-36" value="[Factura correcta]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-35">
-          <mxGeometry x="30" width="1156" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-37" value="[Factura con errores]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-35">
-          <mxGeometry y="320" width="1186" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-38" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="60" y="945" width="1420" height="7167" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-39" value="[Validar Datos del Lote]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry x="30" width="1390" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-40" value="[Generar Facturas Electrónicas]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="745" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-41" value="[Calcular Valor Total]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="2244" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-42" value="[Anular Factura]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="3195" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-43" value="[Registrar Factura del Sistema]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="4654" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-44" value="[Revisar Factura Emitida]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="5275" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-45" value="[Notificar Proveedor]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="oViamrIIBpB9Ua9ESjkp-38">
-          <mxGeometry y="6446" width="1420" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-46" value="Acceder Módulo de Facturación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-46" value="Acceder Módulo de Facturación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="366" />
             </Array>
+            <mxPoint x="240" y="366" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-47" value="Consultar Lotes Disponibles&#xa;(estado=&quot;Procesado&quot;, sin facturar)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-8">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-47" value="Consultar Lotes Disponibles&#xa;(estado=&quot;Procesado&quot;, sin facturar)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="439" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-48" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-8" target="oViamrIIBpB9Ua9ESjkp-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="449" />
-              <mxPoint x="1435" y="479" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-49" value="Lista de Lotes" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-49" value="Lista de Lotes" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="531" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-50" value="Mostrar Lotes Pendientes de Facturación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-50" value="Mostrar Lotes Pendientes de Facturación" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="583" />
             </Array>
+            <mxPoint x="240" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-51" value="Seleccionar Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-51" value="Seleccionar Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="635" />
             </Array>
+            <mxPoint x="240" y="635" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-52" value="Consultar Detalle del Lote&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-9">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-52" value="Consultar Detalle del Lote&#xa;(ID Lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="708" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-53" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-9" target="oViamrIIBpB9Ua9ESjkp-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="718" />
-              <mxPoint x="1435" y="748" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-54" value="Información del Lote&#xa;(materiales, procesamiento, costos)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-54" value="Información del Lote&#xa;(materiales, procesamiento, costos)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="821" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-55" value="Mostrar Detalle del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-55" value="Mostrar Detalle del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="873" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-56" value="Iniciar Emisión de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-56" value="Iniciar Emisión de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="U93dbAnRXnSoc4ZYwXsp-9" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="925" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-57" value="Validar Integridad de Datos&#xa;(materiales, cantidades, precios)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-57" value="Validar Integridad de Datos&#xa;(materiales, cantidades, precios)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-12" edge="1">
+          <mxGeometry x="-0.1231" y="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="1093" />
               <mxPoint x="1030" y="1123" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-58" value="Verificar Datos Completos&#xa;(cliente, productos, valores)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-10">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-58" value="Verificar Datos Completos&#xa;(cliente, productos, valores)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="1196" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-59" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-10" target="oViamrIIBpB9Ua9ESjkp-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="1206" />
-              <mxPoint x="1435" y="1236" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-60" value="Datos Validados" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-60" value="Datos Validados" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="1288" />
             </Array>
+            <mxPoint x="1380" y="1288" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-61" value="Error: Datos Incompletos&#xa;(especificar campos faltantes)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-61" value="Error: Datos Incompletos&#xa;(especificar campos faltantes)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="1407" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-62" value="Completar/Corregir Datos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-62" value="Completar/Corregir Datos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="1459" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-63" value="Actualizar Datos del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-11">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-63" value="Actualizar Datos del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="1511" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-64" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-11" target="oViamrIIBpB9Ua9ESjkp-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="1521" />
-              <mxPoint x="1435" y="1551" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-65" value="Datos Actualizados" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-65" value="Datos Actualizados" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="1603" />
             </Array>
+            <mxPoint x="1380" y="1603" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-66" value="Datos Corregidos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-66" value="Datos Corregidos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="1655" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-67" value="Generar Número de Factura&#xa;(secuencial automático)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-67" value="Generar Número de Factura&#xa;(secuencial automático)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-13" edge="1">
+          <mxGeometry x="-0.05" y="70" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="1833" />
               <mxPoint x="1030" y="1863" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-68" value="Calcular Totales&#xa;(subtotal, impuestos, descuentos, total)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-68" value="Calcular Totales&#xa;(subtotal, impuestos, descuentos, total)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-16" edge="1">
+          <mxGeometry x="0.0667" y="90" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="1936" />
               <mxPoint x="1030" y="1966" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-69" value="Crear Documento Factura Electrónica&#xa;(XML formato DIAN)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-69" value="Crear Documento Factura Electrónica&#xa;(XML formato DIAN)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-17" edge="1">
+          <mxGeometry x="0.1833" y="80" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="2039" />
               <mxPoint x="1030" y="2069" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-70" value="Generar Código CUFE&#xa;(Código Único Factura Electrónica)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-70" value="Generar Código CUFE&#xa;(Código Único Factura Electrónica)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-18" edge="1">
+          <mxGeometry x="-0.1667" y="70" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="2142" />
               <mxPoint x="1030" y="2172" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-71" value="Firmar Digitalmente&#xa;(certificado digital empresa)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-71" value="Firmar Digitalmente&#xa;(certificado digital empresa)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-19" edge="1">
+          <mxGeometry x="-0.0833" y="60" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="2245" />
               <mxPoint x="1030" y="2275" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-72" value="Vista Previa Factura&#xa;(datos, totales, formato)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-72" value="Vista Previa Factura&#xa;(datos, totales, formato)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="2348" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-73" value="Revisar y Confirmar Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-73" value="Revisar y Confirmar Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="2400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-74" value="Confirmar Emisión" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-74" value="Confirmar Emisión" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="2498" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-75" value="Registrar Factura&#xa;(número, fecha, lote, valores, estado=&quot;Emitida&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-12">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-75" value="Registrar Factura&#xa;(número, fecha, lote, valores, estado=&quot;Emitida&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="2571" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-76" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-12" target="oViamrIIBpB9Ua9ESjkp-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="2581" />
-              <mxPoint x="1435" y="2611" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-77" value="Confirmación Registro&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-77" value="Confirmación Registro&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="2684" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-78" value="Generar PDF Representación Gráfica" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-78" value="Generar PDF Representación Gráfica" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-20" edge="1">
+          <mxGeometry x="-0.1" y="90" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="2736" />
               <mxPoint x="1030" y="2766" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-79" value="Actualizar Estado Lote&#xa;(estado=&quot;Facturado&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-13">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-79" value="Actualizar Estado Lote&#xa;(estado=&quot;Facturado&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="2839" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-80" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-13" target="oViamrIIBpB9Ua9ESjkp-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="2849" />
-              <mxPoint x="1435" y="2879" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-81" value="Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-81" value="Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="2931" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-82" value="Factura Emitida Exitosamente&#xa;(Número Factura, CUFE)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-82" value="Factura Emitida Exitosamente&#xa;(Número Factura, CUFE)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="3004" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-83" value="Rechazar y Corregir" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-83" value="Rechazar y Corregir" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="3102" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-84" value="Volver a Edición" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-84" value="Volver a Edición" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="U93dbAnRXnSoc4ZYwXsp-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="3154" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-85" value="Obtener Precios Unitarios&#xa;(por material/servicio)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-85" value="Obtener Precios Unitarios&#xa;(por material/servicio)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-1" edge="1">
+          <mxGeometry x="-0.0333" y="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="3332" />
               <mxPoint x="1030" y="3362" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-86" value="Calcular Subtotal&#xa;(cantidad × precio unitario)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-86" value="Calcular Subtotal&#xa;(cantidad × precio unitario)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-2" edge="1">
+          <mxGeometry x="0.0784" y="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="3435" />
               <mxPoint x="1030" y="3465" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-87" value="Consultar Configuración Impuestos&#xa;(IVA, retenciones aplicables)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-14">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-87" value="Consultar Configuración Impuestos&#xa;(IVA, retenciones aplicables)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="3538" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-88" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-14" target="oViamrIIBpB9Ua9ESjkp-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="3548" />
-              <mxPoint x="1435" y="3578" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-89" value="Tasas de Impuestos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-89" value="Tasas de Impuestos" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="3630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-90" value="Calcular IVA&#xa;(subtotal × tasa IVA)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-90" value="Calcular IVA&#xa;(subtotal × tasa IVA)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-3" edge="1">
+          <mxGeometry x="-0.05" y="40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="3703" />
               <mxPoint x="1030" y="3733" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-91" value="Aplicar Descuentos&#xa;(si aplican)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-91" value="Aplicar Descuentos&#xa;(si aplican)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-4" edge="1">
+          <mxGeometry x="-0.1667" y="40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="3806" />
               <mxPoint x="1030" y="3836" />
             </Array>
+            <mxPoint x="41" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-92" value="Calcular Retenciones&#xa;(renta, ICA, IVA)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-92" value="Calcular Retenciones&#xa;(renta, ICA, IVA)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-7" edge="1">
+          <mxGeometry x="-0.0615" y="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="3909" />
               <mxPoint x="1030" y="3939" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-93" value="Calcular Total Factura&#xa;(subtotal + IVA - descuentos - retenciones)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-93" value="Calcular Total Factura&#xa;(subtotal + IVA - descuentos - retenciones)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-5" edge="1">
+          <mxGeometry x="-0.0333" y="80" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="4012" />
               <mxPoint x="1030" y="4042" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-94" value="Mostrar Desglose de Valores&#xa;(detalle de cálculos)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-94" value="Mostrar Desglose de Valores&#xa;(detalle de cálculos)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="4115" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-95" value="Solicitar Anulación de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-95" value="Solicitar Anulación de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="4262" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-96" value="Consultar Factura&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-15">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-96" value="Consultar Factura&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="4335" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-97" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-15" target="oViamrIIBpB9Ua9ESjkp-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="4345" />
-              <mxPoint x="1435" y="4375" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-98" value="Datos de la Factura&#xa;(número, fecha, estado, lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-98" value="Datos de la Factura&#xa;(número, fecha, estado, lote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="4448" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-99" value="Mostrar Factura a Anular" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-99" value="Mostrar Factura a Anular" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="4500" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-100" value="Confirmar Anulación&#xa;(motivo de anulación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-100" value="Confirmar Anulación&#xa;(motivo de anulación)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-2" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="4573" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-101" value="Validar Posibilidad de Anulación&#xa;(tiempo, estado del lote)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-101" value="Validar Posibilidad de Anulación&#xa;(tiempo, estado del lote)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-10" edge="1">
+          <mxGeometry x="-0.1692" y="70" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="4646" />
               <mxPoint x="1030" y="4676" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-102" value="Generar Nota Crédito&#xa;(documento soporte)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-102" value="Generar Nota Crédito&#xa;(documento soporte)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-11" edge="1">
+          <mxGeometry y="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="4795" />
               <mxPoint x="1030" y="4825" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-103" value="Actualizar Estado Factura&#xa;(estado=&quot;Anulada&quot;, motivo, fecha)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-16">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-103" value="Actualizar Estado Factura&#xa;(estado=&quot;Anulada&quot;, motivo, fecha)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="4898" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-104" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-16" target="oViamrIIBpB9Ua9ESjkp-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="4908" />
-              <mxPoint x="1435" y="4938" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-105" value="Factura Anulada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-105" value="Factura Anulada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="4990" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-106" value="Actualizar Estado Lote&#xa;(revertir a estado anterior)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-17">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-106" value="Actualizar Estado Lote&#xa;(revertir a estado anterior)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="5063" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-107" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-17" target="oViamrIIBpB9Ua9ESjkp-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="5073" />
-              <mxPoint x="1435" y="5103" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-108" value="Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-108" value="Lote Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="5155" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-109" value="Registrar Nota Crédito" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-18">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-109" value="Registrar Nota Crédito" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="5207" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-110" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-18" target="oViamrIIBpB9Ua9ESjkp-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="5217" />
-              <mxPoint x="1435" y="5247" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-111" value="Nota Crédito Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-111" value="Nota Crédito Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="5299" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-112" value="Factura Anulada Exitosamente&#xa;(Nota Crédito generada)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-112" value="Factura Anulada Exitosamente&#xa;(Nota Crédito generada)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="5372" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-113" value="Notificación: Factura Anulada&#xa;(número, motivo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-3">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-113" value="Notificación: Factura Anulada&#xa;(número, motivo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="5445" />
             </Array>
+            <mxPoint x="440" y="5445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-114" value="Error: No se puede anular&#xa;(razón)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-114" value="Error: No se puede anular&#xa;(razón)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;entryX=0.75;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="5564" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-115" value="Crear Registro Contable&#xa;(cuenta por cobrar/pagar)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-19">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-115" value="Crear Registro Contable&#xa;(cuenta por cobrar/pagar)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="5742" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-116" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-19" target="oViamrIIBpB9Ua9ESjkp-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="5752" />
-              <mxPoint x="1435" y="5782" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-117" value="Registro Contable Creado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-117" value="Registro Contable Creado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="5834" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-118" value="Actualizar Estado Financiero del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-20">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-118" value="Actualizar Estado Financiero del Lote" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="5886" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-119" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-20" target="oViamrIIBpB9Ua9ESjkp-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="5896" />
-              <mxPoint x="1435" y="5926" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-120" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-120" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="5978" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-121" value="Registrar Movimiento Contable&#xa;(débito/crédito según tipo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-21">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-121" value="Registrar Movimiento Contable&#xa;(débito/crédito según tipo)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="6051" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-122" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-21" target="oViamrIIBpB9Ua9ESjkp-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="6061" />
-              <mxPoint x="1435" y="6091" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-123" value="Movimiento Registrado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-123" value="Movimiento Registrado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="6143" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-124" value="Factura Registrada en Sistema Contable" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-124" value="Factura Registrada en Sistema Contable" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="6195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-125" value="Solicitar Revisión de Factura&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-3" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-125" value="Solicitar Revisión de Factura&#xa;(ID Factura)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="6363" />
             </Array>
+            <mxPoint x="438" y="6363" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-126" value="Consultar Factura y Detalles" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-22">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-126" value="Consultar Factura y Detalles" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="6415" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-127" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-22" target="oViamrIIBpB9Ua9ESjkp-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="6425" />
-              <mxPoint x="1435" y="6455" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-128" value="Información Completa de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-128" value="Información Completa de Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="6507" />
             </Array>
+            <mxPoint x="1380" y="6507" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-129" value="Mostrar Factura Completa&#xa;(datos, cálculos, estado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-3">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-129" value="Mostrar Factura Completa&#xa;(datos, cálculos, estado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="6580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-130" value="Verificar Información" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-3" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-130" value="Verificar Información" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="u0koz09okUARfvxSxbgL-15" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="6632" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-131" value="Aprobar Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-3" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-131" value="Aprobar Factura" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="u0koz09okUARfvxSxbgL-15" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="6730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-132" value="Actualizar Estado&#xa;(estado=&quot;Aprobada&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-23">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-132" value="Actualizar Estado&#xa;(estado=&quot;Aprobada&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="6803" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-133" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-23" target="oViamrIIBpB9Ua9ESjkp-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="6813" />
-              <mxPoint x="1435" y="6843" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-134" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-134" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="6895" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-135" value="Factura Aprobada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-3">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-135" value="Factura Aprobada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="6947" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-136" value="Rechazar Factura&#xa;(observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-3" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-136" value="Rechazar Factura&#xa;(observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="u0koz09okUARfvxSxbgL-15" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="7066" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-137" value="Actualizar Estado&#xa;(estado=&quot;Rechazada&quot;, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-24">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-137" value="Actualizar Estado&#xa;(estado=&quot;Rechazada&quot;, observaciones)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="7139" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-138" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-24" target="oViamrIIBpB9Ua9ESjkp-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="7149" />
-              <mxPoint x="1435" y="7179" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-139" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-139" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="7231" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-140" value="Notificación: Factura Rechazada&#xa;(observaciones del supervisor)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-140" value="Notificación: Factura Rechazada&#xa;(observaciones del supervisor)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="7304" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-141" value="Rechazo Registrado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="745" y="7356" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-142" value="Preparar Notificación&#xa;(factura, lote, valores)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-142" value="Preparar Notificación&#xa;(factura, lote, valores)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-20" edge="1">
+          <mxGeometry x="-0.1385" y="60" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="7534" />
               <mxPoint x="1030" y="7564" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-143" value="Enviar Notificación&#xa;(factura emitida, PDF adjunto)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-4">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-143" value="Enviar Notificación&#xa;(factura emitida, PDF adjunto)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="845" y="7637" />
             </Array>
+            <mxPoint x="640" y="7637" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-144" value="Registrar Notificación Enviada&#xa;(fecha, destinatario, estado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-25">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-144" value="Registrar Notificación Enviada&#xa;(fecha, destinatario, estado)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="7710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-145" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-25" target="oViamrIIBpB9Ua9ESjkp-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="7720" />
-              <mxPoint x="1435" y="7750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-146" value="Notificación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-146" value="Notificación Registrada" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="7802" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-147" value="Confirmar Recepción" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-4" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-147" value="Confirmar Recepción" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="u0koz09okUARfvxSxbgL-17" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="7854" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-148" value="Actualizar Estado Notificación&#xa;(estado=&quot;Recibida&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-26">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-148" value="Actualizar Estado Notificación&#xa;(estado=&quot;Recibida&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1186" y="7927" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-149" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-26" target="oViamrIIBpB9Ua9ESjkp-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="7937" />
-              <mxPoint x="1435" y="7967" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-150" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-150" value="Estado Actualizado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-7" target="oViamrIIBpB9Ua9ESjkp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1191" y="8019" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-151" value="Notificación: Proveedor Notificado&#xa;(confirmación recepción)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-1">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-151" value="Notificación: Proveedor Notificado&#xa;(confirmación recepción)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="u0koz09okUARfvxSxbgL-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="8092" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-152" value="" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-6" target="oViamrIIBpB9Ua9ESjkp-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1030" y="8112" />
-              <mxPoint x="1030" y="8142" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-153" value="Proceso de Facturación Completado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="oViamrIIBpB9Ua9ESjkp-5" target="oViamrIIBpB9Ua9ESjkp-2">
+        <mxCell id="oViamrIIBpB9Ua9ESjkp-153" value="Proceso de Facturación Completado" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" parent="1" source="oViamrIIBpB9Ua9ESjkp-5" target="u0koz09okUARfvxSxbgL-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="647" y="8194" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-154" value="Caso de Uso: Emitir Facturas de Lotes" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="285" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-1" value="Emitir Facturas de Lotes" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=40;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="1450" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-155" value="Include: Validar Datos del Lote" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="991" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-2" value="Validar Datos del Lote" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="1000" width="1450" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-156" value="Include: Generar Facturas Electrónicas" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1731" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-3" value="Generar Facturas Electronicas" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=40;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="1740" width="1450" height="1470" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-157" value="Include: Calcular Valor Total" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3230" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-4" value="Calcular Valor Total" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=118;height=40;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="3240" width="1450" height="930" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-158" value="Extend: Anular Factura" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="4181" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-5" value="Anular Factura" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=118;height=40;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="4190" width="1450" height="1430" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-159" value="Include: Registrar Factura del Sistema" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="5640" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-6" value="Registrar Factura del Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=118;height=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="5640" width="1450" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-160" value="Extend: Revisar Factura Emitida" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="6261" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-7" value="Revisar Factura Emitida" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=118;height=40;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="6270" width="1450" height="1150" as="geometry" />
         </mxCell>
-        <mxCell id="oViamrIIBpB9Ua9ESjkp-161" value="Extend: Notificar Proveedor" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="7432" width="1335" height="49" as="geometry" />
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-8" value="Notificar Proveedor" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=118;height=40;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="7440" width="1450" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="1380" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="1110" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="1850" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="1950" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="2050" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="2160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="2260" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="2750" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U93dbAnRXnSoc4ZYwXsp-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="2320" width="10" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="3350" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="3450" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="3720" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="3820" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="4030" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="4092" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="3930" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="4250" width="10" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="4660" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="4810" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="6170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="7280" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="8072" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="8170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0koz09okUARfvxSxbgL-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="7550" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
